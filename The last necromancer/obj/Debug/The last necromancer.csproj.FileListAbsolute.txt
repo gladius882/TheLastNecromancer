@@ -1,0 +1,7 @@
+C:\Users\gladius882\Documents\SharpDevelop Projects\The last necromancer\The last necromancer\bin\Debug\The last necromancer.exe
+C:\Users\gladius882\Documents\SharpDevelop Projects\The last necromancer\The last necromancer\bin\Debug\The last necromancer.pdb
+C:\Users\gladius882\Documents\SharpDevelop Projects\The last necromancer\The last necromancer\obj\Debug\The last necromancer.csprojResolveAssemblyReference.cache
+C:\Users\gladius882\Documents\SharpDevelop Projects\The last necromancer\The last necromancer\obj\Debug\The last necromancer.exe
+C:\Users\gladius882\Documents\SharpDevelop Projects\The last necromancer\The last necromancer\obj\Debug\The last necromancer.pdb
+C:\Users\gladius882\Documents\SharpDevelop Projects\The last necromancer\The last necromancer\bin\Debug\NAudio.dll
+C:\Users\gladius882\Documents\SharpDevelop Projects\The last necromancer\The last necromancer\bin\Debug\NAudio.xml
